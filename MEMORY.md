@@ -1,0 +1,1 @@
+AES stands for Adaptive Execution System, a framework organized as objective → milestone → project → task, with a per-session check-in and batch built on top of that structure.
